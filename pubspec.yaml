@@ -1,0 +1,14 @@
+name: qrconnector
+description: Web application for fast transfer of information from phone to computer via qr code.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 0.0.1+1
+
+environment:
+  sdk: '>=2.18.4 <3.0.0'
+
+dependencies:
+  qr_flutter: ^4.1.0
+  flutter:
+    sdk: flutter
