@@ -27,3 +27,4 @@ git clone https://github.com/questionablygoshincidentally/qrConnector.git
 - Егоров Алексей – Developer
 
 ## Материалы
+[Wiki](https://cs-uni.ru/index.php?title=QRConnector_DDSpring2024)
