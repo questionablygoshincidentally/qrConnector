@@ -15,6 +15,12 @@
 git clone https://github.com/questionablygoshincidentally/qrConnector.git
 ```
 - Выбрать [девайс](https://scienceoxygen.com/how-do-i-select-a-device-in-android-studio/) в Android Studio и запустить
+
 ## Команда
+- Прокопьев Никита – TeamLead
+- Далбеев Георгий – Developer
+- Степанов Никита – Developer
+- Можаев Андрей – Product Manager
+- Егоров Алексей – Developer
 
 ## Материалы
