@@ -19,17 +19,30 @@ class QRPage extends StatelessWidget {
     return Scaffold(
       backgroundColor: Const.colors[3],
       body: Center(
-        child: Container(
-          height: minSize * 0.65,
-          width: minSize * 0.65,
-          alignment: Alignment.center,
-          decoration: BoxDecoration(
-            borderRadius: BorderRadius.circular(60),
-            color: Const.colors[0],
-          ),
-          child: Center(
-            child: QR(link: link, minSize: minSize),
-          ),
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Text(
+              "Scan and enjoy!",
+              style: TextStyle(
+                color: Const.colors[0],
+                fontFamily: 'Ahayo',
+                fontSize: 50,
+              ),
+            ),
+            Container(
+              height: minSize * 0.65,
+              width: minSize * 0.65,
+              alignment: Alignment.center,
+              decoration: BoxDecoration(
+                borderRadius: BorderRadius.circular(60),
+                color: Const.colors[0],
+              ),
+              child: Center(
+                child: QR(link: link, minSize: minSize),
+              ),
+            ),
+          ],
         ),
       ),
     );
