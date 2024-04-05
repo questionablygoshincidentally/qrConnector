@@ -17,6 +17,7 @@
 ```
 git clone https://github.com/questionablygoshincidentally/qrConnector.git
 ```
+- Добавить в папку lib ключи от БД
 - Выбрать [девайс](https://scienceoxygen.com/how-do-i-select-a-device-in-android-studio/) в Android Studio и запустить
 
 ## Команда
