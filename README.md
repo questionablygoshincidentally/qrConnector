@@ -5,7 +5,9 @@
 На одном устройстве нужно лишь зайти на сайт, а на другом – отсканировать QR code, после чего устройства соединяются в единый чат и можно обмениваться медиа-файлами.
 
 ## [Ссылка](https://qrconnector-1d4d0.web.app/) - не используйте для передачи конфиденциальной информации
-![image](https://github.com/questionablygoshincidentally/qrConnector/assets/54811112/b81bae05-3e26-4a68-91a2-31e162166f06)
+<p align="center">
+<img src=https://github.com/questionablygoshincidentally/qrConnector/assets/54811112/b81bae05-3e26-4a68-91a2-31e162166f06 width="50%" height="50%">
+</p>
 
 ## Установка
 - Скачать [Android Studio](https://developer.android.com/studio)
