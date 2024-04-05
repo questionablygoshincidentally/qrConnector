@@ -7,7 +7,14 @@
 ## [Ссылка](https://qrconnector-1d4d0.web.app/) - не используйте для передачи конфиденциальной информации
 
 ## Установка
-
+- Скачать [Android Studio](https://developer.android.com/studio)
+- Установить [Flutter](https://hrk-flutter-website.web.app/docs/get-started/install)
+- Настроить путь до [Flutter SDK](https://codelab.pro/ustanovka-i-nastrojka-flutter-v-android-studio/)
+- Клонировать репозиторий
+```
+git clone https://github.com/questionablygoshincidentally/qrConnector.git
+```
+- Выбрать [девайс](https://scienceoxygen.com/how-do-i-select-a-device-in-android-studio/) в Android Studio и запустить
 ## Команда
 
 ## Материалы
